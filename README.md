@@ -1,14 +1,19 @@
 # Enhancing Model Adaptability: A Comprehensive Framework for Evaluating Transferability in Deep Learning Models
 
 This is the GitHub repository for the paper **_Enhancing Model Adaptability: A Comprehensive Framework for Evaluating Transferability in Deep Learning Models_**. This repository contains the experimental code and the comprehensive survey paper associated with our research, which will be updated in real-time with the latest progress.
+## Overview
+In this repository, you will find:
+- The experimental code used in our survey. (**EMAB analysis** and **estimated transferability evaluation**)
+- Link to the original paper on estimated evaluation measures.
+## Online Model Evaluation Platform
+Based on our survey, we have developed an online model evaluation platform. You can access it at: https://model-evaluation.vipazoo.com.
 
 ## Evaluation Measures
-
-The transferability evaluation measures are divided into 6 categories based on their inherent computational strategies, as shown in the diagram. For specific explanations of each category, please refer to the original paper.
+The transferability evaluation measures are divided into 6 categories based on their inherent computational strategies, as shown below. For specific explanations of each category, please refer to the original paper.
 
 <div align=center><img src="https://github.com/secret-hammer/Transferability-Evaluation/assets/70190040/505bfa45-d61f-427c-b5de-c10b34834006" alt="categories" width="50%"/></div>
 
-We compile the original papers for each method in the following table. For detailed properties of each measure, please refer to the original paper.
+We list the original papers for each measure in the table below. For detailed information on each approach, please refer to the respective original papers.
 
 | Measure                                                    | Paper                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,9 +36,19 @@ We compile the original papers for each method in the following table. For detai
 | DEeP Attribution gRAph (DEPARA)                            | Depara: Deep attribution graph for deep knowledge transferability [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Song_DEPARA_Deep_Attribution_CVPR_2020_supplemental.pdf)                                                                  |
 | Task2Vec                                                   | Task2vec: Task embedding for meta-learning [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf)                                                                                |
 | Principal Gradient Expectation(PGE)                        | Transferability estimation based on principal gradient expectation [[paper]](                                                                                                                                                                                     |
-
 ## ESTIMATED MEASURE ANALYSIS BENCHMARK(EMAB)
 
-We provide a comprehensive evaluation framework for estimated transferability measures to assess the accuracy, robustness, scalability, and other properties of metrics in multiple independent controlled scenarios. The specific testing procedure is illustrated in the following figure. This repository provides basic testing scripts. The specific testing procedure will be updated later.
+We provide a comprehensive evaluation framework for estimated transferability measures to assess the accuracy, robustness, scalability, and other properties in multiple independent controlled scenarios. The framework is illustrated in the following figure. The specific usage procedure will be updated later.
 
 ![EMAB示意图](https://github.com/secret-hammer/Transferability-Evaluation/assets/70190040/7002c46f-46a6-42ae-95ed-4fd983aa7862)
+
+## Contributing
+We encourage contributions from the community. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions or inquiries, please contact us at jinxunwu@zju.edu.cn
+
+We hope this repository serves as a valuable resource for your research and development efforts. Thank you for your interest in our work!
