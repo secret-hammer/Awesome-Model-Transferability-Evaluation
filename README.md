@@ -28,7 +28,7 @@ The transferability evaluation measures are divided into 6 categories based on t
 
 We compile the attributes, characteristics, and usage scenarios of each measure in the table below.
 
-<div align=center><img src="images/measures_properties.png" alt="properties" width="90%"/></div>
+<div align=center><img src="images/measures_properties.png" alt="properties" width="50%"/></div>
 
 For the convenience of searching, We list the original papers for each measure in the table below.
 | Measure | Paper |
