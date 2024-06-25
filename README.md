@@ -53,7 +53,7 @@ For the convenience of searching, We list the original papers for each measure i
 
 We provide a comprehensive evaluation framework for estimated transferability measures to assess the accuracy, robustness, scalability, and other properties in multiple independent controlled scenarios. The framework is illustrated in the following figure. The specific usage procedure will be updated later.
 
-![EMAB示意图](images/EMAB示意图.pdf)
+<div align=center><img src="images/EMAB示意图.png" alt="EMAB示意图" width="70%"/></div>
 
 ## Contributing
 
