@@ -26,11 +26,7 @@ The transferability evaluation measures are divided into 6 categories based on t
 
 <div align=center><img src="images/categories.png" alt="categories" width="50%"/></div>
 
-We compile the attributes, characteristics, and usage scenarios of each measure in the table below.
-
-<div align=center><img src="images/measures_properties.png" alt="properties" width="50%"/></div>
-
-For the convenience of searching, We list the original papers for each measure in the table below.
+For the convenience of searching, We list the original papers for each measure in the table below. Please refer to the original paper for the attributes, characteristics, and usage scenarios of each measure.
 | Measure | Paper |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Image Domain Similarity(IDS) | Factors of influence for transfer learning across diverse appearance domains and task types [[paper]](https://ieeexplore.ieee.org/iel7/34/4359286/09625801.pdf) |
