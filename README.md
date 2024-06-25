@@ -24,11 +24,11 @@ The transferability evaluation measures are divided into 6 categories based on t
 5. **Parameter Update Direction**: Considers the direction of parameter updates during training.
 6. **Others**: Includes measures that do not fit neatly into the above categories.
 
-<div align=center><img src="https://github.com/secret-hammer/Transferability-Evaluation/images/categories.png" alt="categories" width="50%"/></div>
+<div align=center><img src="images/categories.png" alt="categories" width="50%"/></div>
 
 We compile the attributes, characteristics, and usage scenarios of each measure in the table below.
 
-<div align=center><img src="https://github.com/secret-hammer/Transferability-Evaluation/images/measures_properties.png" alt="properties" width="90%"/></div>
+<div align=center><img src="images/measures_properties.png" alt="properties" width="90%"/></div>
 
 For the convenience of searching, We list the original papers for each measure in the table below.
 | Measure | Paper |
@@ -57,7 +57,7 @@ For the convenience of searching, We list the original papers for each measure i
 
 We provide a comprehensive evaluation framework for estimated transferability measures to assess the accuracy, robustness, scalability, and other properties in multiple independent controlled scenarios. The framework is illustrated in the following figure. The specific usage procedure will be updated later.
 
-![EMAB示意图](https://github.com/secret-hammer/Transferability-Evaluation/images/EMAB示意图.pdf)
+![EMAB示意图](images/EMAB示意图.pdf)
 
 ## Contributing
 
