@@ -1,6 +1,7 @@
-# Enhancing Model Adaptability: A Comprehensive Framework for Evaluating Transferability in Deep Learning Models
+# A Comprehensive Survey and Benchmarking on Deep Model Transferability Evaluation
 
-This is the GitHub repository for the paper **_Enhancing Model Adaptability: A Comprehensive Framework for Evaluating Transferability in Deep Learning Models_**. This repository contains the experimental code and the comprehensive survey paper associated with our research, which will be updated in real-time with the latest progress.
+This is the GitHub repository for the paper **_A Comprehensive Survey and Benchmarking on Deep Model Transferability Evaluation_**. This repository contains the experimental code and the comprehensive survey paper associated with our research, which will be updated in real-time with the latest progress.
+
 ## Overview
 In this repository, you will find:
 - The experimental code used in our survey. (**EMAB analysis** and **estimated transferability evaluation**)
@@ -46,7 +47,7 @@ We provide a comprehensive evaluation framework for estimated transferability me
 We encourage contributions from the community. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or inquiries, please contact us at jinxunwu@zju.edu.cn
